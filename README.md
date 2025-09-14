@@ -4,7 +4,7 @@
 
 Some commands are a work in progress
 
-Content
+Content</b>
 &nbsp;&nbsp;&nbsp;&nbsp;Text Processing  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[grep](./grep)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[jq](./jq)  
