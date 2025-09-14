@@ -4,25 +4,25 @@
 
 Some commands are a work in progress
 
-```
+<pre>
 Content
-    **Text Processing**
-        [grep](./grep)
-        [jq](./jq)
-        [awk](./awk)
+    Text Processing
+        <a href="./grep">grep</a>
+        <a href="./jq">jq</a>
+        <a href="./awk">awk</a>
         ...
-    **File & Directory Management**
-        [find](./find)
+    File & Directory Management
+        <a href="./find">find</a>
         ...
-    **System Monitoring**
-        [ps](./ps)
+    System Monitoring
+        <a href="./ps">ps</a>
         ...
-    **Networking**
-        [curl](./curl)
-        [wget](./wget)
+    Networking
+        <a href="./curl">curl</a>
+        <a href="./wget">wget</a>
         ...
-    **Utilities**
-        [sort](./sort)
-        [uniq](./uniq)
+    Utilities
+        <a href="./sort">sort</a>
+        <a href="./uniq">uniq</a>
         ...
-```
+</pre>
