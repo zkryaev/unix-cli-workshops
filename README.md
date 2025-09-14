@@ -25,3 +25,12 @@ Some commands are a work in progress
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sort](./sort)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[uniq](./uniq)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...  
+
+### Contributing ❤️
+
+Open to contributions! Feel free to:
+
+- Add links to your own repositories with relevant Unix CLI workshops.  
+- Suggest repositories or resources from others that would be valuable to include.
+
+**One main rule:** If you add a page for a command, please follow the formatting and structure used in the existing command pages to keep everything consistent.
