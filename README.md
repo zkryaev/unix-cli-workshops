@@ -2,7 +2,9 @@
 
 > A growing collection of practical workshops for mastering essential Unix command-line tools
 
-Some commands are a work in progress
+`Some commands are a work in progress`
+
+---
 
 ### Content
 
@@ -25,6 +27,8 @@ Some commands are a work in progress
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sort](./sort)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[uniq](./uniq)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...  
+
+---
 
 ### Contributing ❤️
 
