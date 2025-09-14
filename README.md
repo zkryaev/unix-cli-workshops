@@ -1,2 +1,3 @@
-# unix-cli-workshops
-A hands-on collection of Unix CLI workshops
+# Unix CLI Workshops
+
+> A growing collection of practical workshops for mastering essential Unix command-line tools
